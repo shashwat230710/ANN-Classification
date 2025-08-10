@@ -4,4 +4,6 @@ pandas
 matplotlib
 tensorboard
 scikit-learn
+
 streamlit
+scikeras
